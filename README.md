@@ -6,3 +6,5 @@ Collection of educational data science ideas in Jupyter Notebooks
  
 * Gradient Boosting: Intuition behind gradient boosting.
 https://nbviewer.jupyter.org/github/rshanker779/jupyter-data-notebooks/blob/master/notebooks/gradient_boosting.ipynb
+
+* Feature Importance for decision trees and ensembles of trees. https://nbviewer.jupyter.org/github/rshanker779/jupyter-data-notebooks/blob/master/notebooks/feature_importance_decision_trees.ipynb
